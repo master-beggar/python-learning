@@ -1,0 +1,3 @@
+class Thief:
+    sneaky = True
+  
